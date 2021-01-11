@@ -38,6 +38,7 @@ Overview
    model-library
    parameter-library
    problem-library
+   theory-library
 
 Indices and tables
 ==================
