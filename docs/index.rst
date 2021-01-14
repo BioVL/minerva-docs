@@ -40,7 +40,6 @@ Overview
    theory-library
 
 
-Methods
 ================================
 .. toctree::
    :maxdepth: 2
