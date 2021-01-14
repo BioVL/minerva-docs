@@ -30,7 +30,6 @@ Overview
 .. image:: graphics/Instance_diagram.png
 ================================
 
-
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
@@ -41,6 +40,7 @@ Overview
    theory-library
 
 
+Methods
 ================================
 .. toctree::
    :maxdepth: 2
