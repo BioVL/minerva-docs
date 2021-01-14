@@ -40,6 +40,8 @@ Overview
    problem-library
    theory-library
 
+
+================================
 .. toctree::
    :maxdepth: 2
    :caption: Methods:
