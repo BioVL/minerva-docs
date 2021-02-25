@@ -44,6 +44,7 @@ Overview
    :maxdepth: 2
    :caption: Methods:
 
+   Matrix Notation - Model development
    PostgreSQL
    Json
    Python
