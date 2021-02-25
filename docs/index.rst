@@ -44,7 +44,7 @@ Overview
    :maxdepth: 2
    :caption: Methods:
 
-   Matrix Notation - Model development
+   MatrixNotation
    MongoDB
    Json
    Python
