@@ -45,7 +45,7 @@ Overview
    :caption: Methods:
 
    Matrix Notation - Model development
-   PostgreSQL
+   MongoDB
    Json
    Python
 
