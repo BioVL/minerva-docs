@@ -7,8 +7,8 @@ The description of a system through this methodology is done by defining its num
 ================================
 
 .. image:: graphics/equation.png
-    :figwidth: 50 %
-    :width: 50 %
+    :figwidth: 75 %
+    :width: 100 %
     :align: center
 
 ================================
