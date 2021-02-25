@@ -27,7 +27,7 @@ Key Features & Capabilities
 Overview
 -----------------------------
 
-.. image:: graphics/Instance_diagram.png
+.. image:: graphics/flowering_data.png
 ================================
 
 .. toctree::
