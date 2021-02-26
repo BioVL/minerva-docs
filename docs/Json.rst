@@ -7,3 +7,5 @@ Json stands for JavaScript Objection Notation and it is an open standard data fi
 
 
 Example
+------------------------------------------
+.. literalinclude:: scripts/example_json.py

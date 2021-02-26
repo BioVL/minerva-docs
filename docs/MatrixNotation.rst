@@ -15,3 +15,7 @@ The description of a system through this methodology is done by defining its num
 ================================
 
 The overall component conversion rate vector (r) is then coupled to a general mass balance equation.
+
+Example
+------------------------------------------
+.. literalinclude:: scripts/model_template.py
