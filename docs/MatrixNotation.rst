@@ -16,6 +16,11 @@ The description of a system through this methodology is done by defining its num
 
 The overall component conversion rate vector (r) is then coupled to a general mass balance equation.
 
-Example
+Template example 
 ------------------------------------------
 .. literalinclude:: scripts/model_template.py
+
+
+Example of a (bio)kinetic model. In this case, for the modeling of the aerobic growth of \textit{Corynebacterium glutamicum} under product inhibition.
+------------------------------------------
+.. literalinclude:: scripts/script_CGlutamicum.py
