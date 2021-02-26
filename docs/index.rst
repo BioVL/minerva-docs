@@ -49,6 +49,13 @@ Overview
    Json
    Python
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Applications:
+
+   Software-integration
+   AI
+
 
 Indices and tables
 ==================
