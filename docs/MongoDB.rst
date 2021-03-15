@@ -14,4 +14,6 @@ MongoDB organizes its data in documents that subsequently are organized in colle
 How to...
 ------------------------------------------
 It is a simple script using Flask in order to create a REST API with a mongo database to get and post data.
+
+
 .. literalinclude:: scripts/example_pymongo.py

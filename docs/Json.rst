@@ -1,7 +1,8 @@
 Json
 =========
 
-Brief introduction to the theory 
+Definition
+----------
 
 JSON is a data format with an easily understandable architecture, which cares about their readability and allows basic examination for non-programmers through a reasonable structure that is self-evident. Therefore, it is a perfect data format to store data in a  flexible, reusable, and expandable database.  Furthermore, it is aligned with the FAIR principles.
 

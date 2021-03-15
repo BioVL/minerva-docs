@@ -21,6 +21,10 @@ Template example
 .. literalinclude:: scripts/model_template.py
 
 
-Example of a (bio)kinetic model. In this case, for the modeling of the aerobic growth of \textit{Corynebacterium glutamicum} under product inhibition.
+Example
 ------------------------------------------
+
+A(bio)kinetic first-principle model. In this case, for the representation of the aerobic growth of \textit{Corynebacterium glutamicum} under product inhibition.
+
+
 .. literalinclude:: scripts/script_CGlutamicum.py
