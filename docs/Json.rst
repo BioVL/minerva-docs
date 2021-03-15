@@ -1,4 +1,4 @@
-Json
+JSON - Data format
 =========
 
 Definition
