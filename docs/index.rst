@@ -7,7 +7,7 @@ Minerva: An Open-Source Library for Bioprocesses
 =========================================================================
 
 .. image:: graphics/logo.png
-   :scale: 40 %
+   :scale: 25 %
 
 Minerva is a relational database with (i) bio-kinetic models; (ii) process and modeling information; (iii) and an expert system.
 
